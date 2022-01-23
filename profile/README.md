@@ -1,26 +1,26 @@
 # 🌏 Geoinformatics Project 2021-22
 
-This project was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to explore Geoinformatics and learn development to apply the same into application. The members of the project know the following technologies as of today: 
+This project was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to explore Geoinformatics and learn development to apply the same into application. The members of the project know the following technologies as of today:
 
 - HTML
 - CSS
 - Git and Github
 
-and they are now going to learn the following technologies: 
+and they are now going to learn the following technologies:
 
 - Javascript
 - React
-- Python 
+- Python
 - Django
 
-and the following concepts of Geoinformatics: 
+and the following concepts of Geoinformatics:
 
 - Introduction to Geoinformatics
 - Geographic Information Systems
 - Remote Sensing and Photogrammetry
 - Navigation, Location and Positioning using satellites
 
-After which they would be applying the same into building applications in the same domain. 
+After which they would be applying the same into building applications in the same domain.
 
 To profile of the member students is listed below and their contributions are visible and can be seen on their accounts.
 
@@ -67,7 +67,7 @@ For offering internships/projects to the students, write us at giprojectcivil@gm
 | 200904  | Saurabh Sahay                 | [Resume](https://drive.google.com/file/d/1zW_dNBkHAAgvQK-djdBqNEo9f00FuTJl/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/sahay-saurabh" width="50px;">](https://github.com/sahay-saurabh)       |
 | 200930  | Sheshank                      | [Resume](https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/The-Avi" width="50px;">](https://github.com/The-Avi)                   |
 | 200969  | Shubham Kumar                 | [Resume](https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/Shubham-707" width="50px;">](https://github.com/Shubham-707)           |
-| 201167  | Tejas Uttam Warade            | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/Tejasuwarade" width="50px;">](https://github.com/Tejasuwarade)         |
+| 201136  | Tejas Uttam Warade            | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/Tejasuwarade" width="50px;">](https://github.com/Tejasuwarade)         |
 | 190962  | Vijay Kumar Chauhan           | [Resume](https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/vijaykc962" width="50px;">](https://github.com/vijaykc962)             |
 | 190990  | Vivek Singh Rajawat           | [Resume](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/vrajawat" width="50px;">](https://github.com/vrajawat)                 |
 | 201118  | Vikas Varshney                | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/Vikas-code-ux" width="50px;">](https://github.com/Vikas-code-ux)       |
